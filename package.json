@@ -1,5 +1,5 @@
 {
-  "name": "@tacto/ashby-mcp-server",
+  "name": "@jonzz02/ashby-mcp-server",
   "version": "1.0.0",
   "description": "MCP server for the Ashby recruiting API",
   "type": "module",
